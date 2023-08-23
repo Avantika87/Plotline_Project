@@ -30,13 +30,13 @@ $ npm start
 │  ├─ manifest.json/   #allows installation use on devices <br>
 |  ├─robots.txt/       #web text file guiding search engine access to pages <br>
 ├─ 
-│  ├─ assets/        # Assets <br>
-│  │  ├─ App.css/    #Css code for our project <br>
-│  │  ├─ App.js/     #html/js code for our project <br>
+│  ├─ assets/                # Assets <br>
+│  │  ├─ App.css/            #Css code for our project <br>
+│  │  ├─ App.js/             #html/js code for our project <br>
 │  │  ├─ DigitalClock.js/    # Code for printing real-time time <br>
 │  │
-│  ├─ .gitignore/    # guide for Git on what files and folders to disregard <br>
+│  ├─ .gitignore/         # guide for Git on what files and folders to disregard <br>
 │  ├─ package-lock.json/  #maintains package versions for consistent Node.js development <br>
-|  ├─ package.json      # Project manifest <br>
-   └─ README.md         # This file <br>
+|  ├─ package.json        # Project manifest <br>
+   └─ README.md           # This file <br>
 ```
